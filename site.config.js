@@ -1,15 +1,15 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '6a76fdd9ec6d4ae2855aa790d620eec4',
+  rootNotionPageId: 'fd96ae67aec64095bc462fcdb3031fae',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '菜饼的技术博客',
-  domain: 'szufrank.top',
-  author: '菜饼同学',
+  name: '无人处低语',
+  domain: 'nobody.me',
+  author: 'nobody',
 
   // open graph metadata (optional)
   description: '菜饼同学: 专注硬核技术，校招打法，个人认知体系成长',
